@@ -1,4 +1,4 @@
-# PowerBI-Project-Ecommerce-sales-dashboard-
+# E-Commerce Revenue & Customer Behaviour Analytics Dashboard:
 Data analysis project exploring e-commerce sales, customer insights, and business performance through interactive dashboards. Dashboard project focused on analyzing online retail sales, customer trends, and profitability.
 
 Key Insights:
